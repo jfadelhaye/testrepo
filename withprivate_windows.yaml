@@ -1,0 +1,4 @@
+version: '3'
+services:
+  nano: 
+    image: portainertest.azurecr.io/hellowin
