@@ -2,7 +2,7 @@ version: "3"
     
 services:
   wordpress:
-    image: nginx:latest
+    image: wordpress:latest
     restart: always
     environment:
       WORDPRESS_DB_HOST: db:3306
