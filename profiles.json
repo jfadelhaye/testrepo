@@ -1,0 +1,13 @@
+{
+  "profiles": [
+    {
+      "name": "Docker Standalone + Edge Agent (Default)",
+      "URL": "https://raw.githubusercontent.com/jfadelphaye/privaterepo/fdo-profiles/default.sh"
+    },
+    {
+      "name": "Another profile",
+      "URL": "https://raw.githubusercontent.com/jfadelphaye/privaterepo/fdo-profiles/default.sh"
+    }
+  ]
+}
+
