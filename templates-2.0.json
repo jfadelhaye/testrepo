@@ -959,7 +959,7 @@
       "platform": "linux",
       "logo": "",
       "repository": {
-        "url": "https://github.com/xAt0mZ/portainer-templates/tree/feat/EE-2700/dokku-app-template",
+        "url": "https://github.com/xAt0mZ/portainer-templates#feat/EE-2700/dokku-app-template",
         "stackfile": "stacks/dokku/docker-compose.yml"
       },
       "env": [
